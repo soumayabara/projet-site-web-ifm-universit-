@@ -2495,3 +2495,10 @@ img {
     font-size: 100px;
   }
 }
+#SS{
+         position: absolute;
+    top: 50%;
+    left: 268px;
+    FONT-SIZE: 110px;
+    font-family: cursive;
+}
